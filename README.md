@@ -36,6 +36,16 @@ Bu uygulama, basit bankacılık işlemlerini simüle etmek için tasarlanmışt�
 KOD : 
 
 
+
+
+
+
+
+
+
+
+
+
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.Font;
@@ -55,7 +65,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
-
 public class BankingSystem {
     private static JFrame loginFrame;
     private static JPanel loginPanel;
